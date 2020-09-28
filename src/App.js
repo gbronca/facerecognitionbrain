@@ -1,16 +1,20 @@
 import React from 'react';
-import logo from './logo.svg';
+import Navigation from './components/Navigation/Navigation';
+import Logo from './components/Logo/Logo';
 import './App.css';
+import 'tachyons';
 
-function App() {
-  return (
-    <div className="App">
-      <Navigation />
-      <Logo />
-      <ImageLinkForm />
-      <FaceRecognition />
-    </div>
-  );
+class App extends React.Component {
+  render() {
+    return (
+      <div className="App">
+        <Navigation />
+        <Logo />
+        {/* <ImageLinkForm />
+        <FaceRecognition /> */}
+      </div>
+    );
+  }
 }
 
 export default App;
