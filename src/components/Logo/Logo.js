@@ -2,6 +2,7 @@ import React from 'react';
 import Tilt from 'react-tilt';
 import brain from './chip.svg';
 import './Logo.css';
+import 'tachyons';
 
 const Logo = () => {
   return(
