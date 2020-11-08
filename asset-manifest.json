@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d95a504.chunk.css",
-    "main.js": "/static/js/main.cd369d77.chunk.js",
-    "main.js.map": "/static/js/main.cd369d77.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.30657a9b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.30657a9b.js.map",
-    "static/css/2.038644eb.chunk.css": "/static/css/2.038644eb.chunk.css",
-    "static/js/2.61f74b48.chunk.js": "/static/js/2.61f74b48.chunk.js",
-    "static/js/2.61f74b48.chunk.js.map": "/static/js/2.61f74b48.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.91f1b457648123e6889b933dc2ed960c.js": "/precache-manifest.91f1b457648123e6889b933dc2ed960c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.038644eb.chunk.css.map": "/static/css/2.038644eb.chunk.css.map",
-    "static/css/main.1d95a504.chunk.css.map": "/static/css/main.1d95a504.chunk.css.map",
-    "static/js/2.61f74b48.chunk.js.LICENSE.txt": "/static/js/2.61f74b48.chunk.js.LICENSE.txt",
-    "static/media/chip.svg": "/static/media/chip.7ae9c5ee.svg"
+    "main.css": "./static/css/main.1d95a504.chunk.css",
+    "main.js": "./static/js/main.afcd20d2.chunk.js",
+    "main.js.map": "./static/js/main.afcd20d2.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.d8b386cf.js",
+    "runtime-main.js.map": "./static/js/runtime-main.d8b386cf.js.map",
+    "static/css/2.038644eb.chunk.css": "./static/css/2.038644eb.chunk.css",
+    "static/js/2.c92a5ca5.chunk.js": "./static/js/2.c92a5ca5.chunk.js",
+    "static/js/2.c92a5ca5.chunk.js.map": "./static/js/2.c92a5ca5.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.1e673adbb05e4223b58b723b6235f84c.js": "./precache-manifest.1e673adbb05e4223b58b723b6235f84c.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.038644eb.chunk.css.map": "./static/css/2.038644eb.chunk.css.map",
+    "static/css/main.1d95a504.chunk.css.map": "./static/css/main.1d95a504.chunk.css.map",
+    "static/js/2.c92a5ca5.chunk.js.LICENSE.txt": "./static/js/2.c92a5ca5.chunk.js.LICENSE.txt",
+    "static/media/chip.svg": "./static/media/chip.7ae9c5ee.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.30657a9b.js",
+    "static/js/runtime-main.d8b386cf.js",
     "static/css/2.038644eb.chunk.css",
-    "static/js/2.61f74b48.chunk.js",
+    "static/js/2.c92a5ca5.chunk.js",
     "static/css/main.1d95a504.chunk.css",
-    "static/js/main.cd369d77.chunk.js"
+    "static/js/main.afcd20d2.chunk.js"
   ]
 }
